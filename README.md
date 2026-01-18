@@ -28,3 +28,13 @@ With the continuous development of blockchain and smart contract technology, dig
 
 4. Implemented the prototype system and conducted empirical study on the most representative digital asset and cryptocurrency, i.e., Bitcoin. In-depth analysis of market price from volatility, predictability and the correlation between various factors and market price volatility are presented. And based on the forecast results, we simulated transactions to explore the eﬀectiveness of digital asset market.
 
+## Research Interests
+
+### Border Gateway Protocol (BGP)
+
+BGP (Border Gateway Protocol) is a standardized exterior gateway protocol designed to exchange routing and reachability information among autonomous systems (AS) on the Internet. Research interests include:
+- BGP security and hijacking detection
+- BGP route optimization and traffic engineering
+- BGP convergence analysis
+- Internet routing stability and resilience
+
